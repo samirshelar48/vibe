@@ -35,15 +35,6 @@ ChatGPT serves as a vibe coding companion, helping you:
 - Generate documentation that captures the essence of your project
 - Provide coding suggestions that align with your vibe
 
-### ⚡ Cursor Editor
-
-[Cursor](https://cursor.sh/) is an AI-powered code editor that enhances the vibe coding experience by:
-
-- Providing real-time AI assistance as you code
-- Offering intelligent code completion that keeps you in flow
-- Helping you navigate complex codebases without losing your positive momentum
-- Enabling quick refactoring that maintains code harmony
-
 ## 🌟 Getting Started
 
 1. Clone this repository to start your vibe coding journey
@@ -67,7 +58,6 @@ Contributions that maintain and enhance the vibe are welcome! Please read our [C
 
 - [The Art of Vibe Coding](https://example.com) - Learn more about coding with positive energy
 - [MCP Documentation](https://example.com/mcp) - Official documentation for Model Control Protocol
-- [Cursor Editor](https://cursor.sh/) - AI-powered editor for enhanced coding experience
 
 ## 📝 License
 
